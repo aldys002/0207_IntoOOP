@@ -33,6 +33,6 @@ class MataKuliah {
         void tampilMK(){
             cout << "Kode MK\t: " << kodeMK<<endl;
             cout << "Nama MK\t: " << namaMK<<endl;
-            cout << "Sks \t:"
+            cout << "Sks \t: " <<sks<<endl;
         }
-}
+};
