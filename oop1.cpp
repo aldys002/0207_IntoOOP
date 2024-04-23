@@ -39,11 +39,16 @@ class MataKuliah {
 
 int main(){
     Mahasiswa mhs;
-    Matakuliah mk;
+    MataKuliah mk; 
     cout << "Masukkan nim : ";
     cin >> mhs.nim;
     cout << "Masukkan nama : ";
     cin >> mhs.nama;
     cout << "Masukkan umur : ";
     cin >> mhs.umur;
+
+    mk.inputMK();
+    mk.tampilMK();
+    mhs.tampilData();
+
 }
