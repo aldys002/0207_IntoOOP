@@ -36,3 +36,7 @@ class MataKuliah {
             cout << "Sks \t: " <<sks<<endl;
         }
 };
+
+int main(){
+    
+}
