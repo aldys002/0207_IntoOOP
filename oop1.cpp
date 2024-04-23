@@ -22,6 +22,15 @@ class MataKuliah {
         int sks;
     public :
         void inputMK(){
+          cout << "Masukkan kkode\t: ";
+          cin >> kodeMK;
+          cout << "Masukkan nama\t: ";
+          cin >> namaMK;
+          cout << "Masukkan sks\t: ";
+          cin >> sks;  
+        }
+
+        void tampilMK(){
             
         }
 }
