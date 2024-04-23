@@ -14,7 +14,7 @@ class bangunDatar {
            cout << "Masukkan Panjangnya = ";
            cin >> panjang;
            cout << "Masukkan Lebarnya = ";
-           cin >> Lebar;
+           cin >> lebar;
 
         }
 }
