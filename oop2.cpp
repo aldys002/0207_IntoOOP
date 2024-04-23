@@ -17,4 +17,8 @@ class bangunDatar {
            cin >> lebar;
 
         }
+
+        float hitungLuas (){
+            
+        }
 }
