@@ -22,7 +22,7 @@ class MataKuliah {
         int sks;
     public :
         void inputMK(){
-          cout << "Masukkan kkode\t: ";
+          cout << "Masukkan kode\t: ";
           cin >> kodeMK;
           cout << "Masukkan nama\t: ";
           cin >> namaMK;
